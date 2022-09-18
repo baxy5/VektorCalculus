@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (tdnf.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  vektors.cpp
+E:\Coding\tdnf\tdnf\vektors.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  tdnf.vcxproj -> E:\Coding\tdnf\x64\Debug\vektors.exe
